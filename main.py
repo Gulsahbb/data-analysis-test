@@ -4,12 +4,6 @@ import pandas as pd
 data = pd.read_csv('food_ingredients_and_allergens.csv')
 # print(data)
 
-# 1.Öncelikle, veri setinde eksik veya hatalı veri olup olmadığını kontrol edelim ve verinin genel yapısını anlamak.
-# Ön İşleme Adımları:
-# 1.Eksik Verinin Yönetimi:
-#   Prediction sütunundaki eksik değeri ya doldurmak ya da bu satırı veri setinden çıkarmak
-
-# Veri türleri ve eksik verileri kontrol ettik.
 # data_info = data.info()
 
 missing_value = data.isnull().sum()
