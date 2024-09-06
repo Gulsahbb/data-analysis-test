@@ -1,7 +1,7 @@
-# Alerjen Tespiti ve Öneri Sistemi
+# Allergen Detection and Recommendation System
 
-_Proje:_ Bir kullanıcının girdiği bileşenlere göre alerjen içeren gıdaları tespit eden bir sistem oluşturmak. Kullanıcı, belirli bileşenleri girer ve sistem, bu bileşenlere göre potansiyel alerjen riskini tahmin eder.
+_Project:_ To create a system that detects allergenic foods based on the components entered by a user. The user inputs specific components, and the system predicts potential allergen risks based on these components.
 
-## 1. Proje Tanımı ve Gereksinimler
+## 1. Project Description and Requirements
 
-* Amaç: Kullanıcıdan alınan bileşenler doğrultusunda, alerjen içeren gıdaları tespit eden ve kullanıcıya öneriler sunan bir sistem oluşturmak.
+* Purpose: To develop a system that identifies allergenic foods based on the components provided by the user and offers recommendations to the user.
